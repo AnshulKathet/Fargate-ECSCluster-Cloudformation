@@ -10,7 +10,7 @@ Parameters:
     Default: AnshulKathet
   GithubRepo:
     Type: String
-    Default: spring3hibernate
+    Default: Fargate-ECSCluster-Cloudformation
   GithubBranch:
     Type: String
     Default: Master
